@@ -1,10 +1,10 @@
 :root{  /*definições que podem ser utilizadas por todo o documento css*/
     --branco-principal: #ffffff;/* cria uma variavel e coloca o valor da cor dentro dela*/
     --cinza-secundario: #c0c0c0;
-    --botao-azul: #167bf7;
+    --botao-azul: #52c031;
     --cor-de-fundo: #00030c;
     --fonte-principal: 'Inter';/*cria uma variavel e coloca o valor da fonte dentro dela*/
-    --botao-azul-efeito:#076eec;
+    --botao-azul-efeito:#ff0000;
 
 }
 body{
